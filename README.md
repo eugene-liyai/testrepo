@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/48cde7f301b24670bbd64988ae698754)](https://www.codacy.com/app/eugene-liyai/testrepo?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=eugene-liyai/testrepo&amp;utm_campaign=Badge_Grade)
 # testrepo
 This is a python tutorial based repository, containing 99.9% of everything you need to know about python.
 

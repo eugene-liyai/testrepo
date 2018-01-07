@@ -1,12 +1,12 @@
 # read file function
 def read_file():
-    buffersize = 5  # declare buffer size
+    buffersize = 40000  # declare buffer size
 
-    # the 'r' represents a read directive
-    file_data = open('./python_examples/file_io/input_file.txt', 'r')
+    # the 'rb' represents a read binary directive
+    file_data = open('./python_examples/file_io/sample.jpg', 'rb')
 
-    # the 'w' represents a write directive
-    output_file = open('./python_examples/file_io/output_file.txt', 'w')
+    # the 'wb' represents a write binary directive
+    output_file = open('./python_examples/file_io/new.jpg', 'wb')
 
     buffer = file_data.read(buffersize)  # loop over the chunks of buffer
     while len(buffer):

@@ -104,3 +104,4 @@ ENV/
 .idea
 
 python_examples/file_io/output_file.txt
+python_examples/file_io/new.jpg
