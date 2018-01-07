@@ -6,7 +6,7 @@ def read_file():
     file_data = open('./python_examples/file_io/sample.jpg', 'rb')
 
     # the 'wb' represents a write binary directive
-    output_file = open('./python_examples/file_io/new.jpg', 'w')
+    output_file = open('./python_examples/file_io/new.jpg', 'wb')
 
     buffer = file_data.read(buffersize)  # loop over the chunks of buffer
     while len(buffer):
