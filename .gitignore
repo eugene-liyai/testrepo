@@ -102,3 +102,5 @@ ENV/
 
 # IDE
 .idea
+
+python_examples/file_io/output_file.txt
