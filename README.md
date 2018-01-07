@@ -1,5 +1,5 @@
 # testrepo
-This is a test repository
+This is a python tutorial based repository, containing 99.9% of everything you need to know about python.
 
 # License
 
